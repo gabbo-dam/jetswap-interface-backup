@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from 'jetswap-sdk'
 
-export const ROUTER_ADDRESS = '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F'
+export const ROUTER_ADDRESS = '0xA8583a8C53A08EbCD6cB494B10Ce48C86F53Be75'
 
 // a list of tokens by chain
 type ChainTokenList = {

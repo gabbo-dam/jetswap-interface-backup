@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://jetswap2.netlify.app',
+    href: 'https://jetswap.finance',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://jetswap2.netlify.app/farms',
+    href: 'https://jetswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://jetswap2.netlify.app/pools',
+    href: 'https://jetswap.finance/pools',
   },
   
   
@@ -39,19 +39,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://jetswapinfo.netlify.app/home',
+        href: 'https://info.jetswap.finance/home',
       },
       {
         label: 'Tokens',
-        href: 'https://jetswapinfo.netlify.app/tokens',
+        href: 'https://info.jetswap.finance/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://jetswapinfo.netlify.app/pairs',
+        href: 'https://info.jetswap.finance/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://jetswapinfo.netlify.app/accounts',
+        href: 'https://info.jetswap.finance/accounts',
       },
     ],
   },
