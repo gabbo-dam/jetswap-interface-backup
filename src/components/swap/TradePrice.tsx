@@ -1,6 +1,6 @@
 import React from 'react'
 import { Price } from 'jetswap-sdk'
-import { SyncAltIcon, Text } from 'jetswap-uikit2'
+import { SyncAltIcon, Text } from 'jetswap-uikit-new'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

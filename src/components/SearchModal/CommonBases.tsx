@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'jetswap-uikit2'
+import { Text } from 'jetswap-uikit-new'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from 'jetswap-sdk'
 import styled from 'styled-components'
 
