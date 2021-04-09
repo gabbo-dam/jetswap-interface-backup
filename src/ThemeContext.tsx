@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark } from 'jetswap-uikit-new'
+import { light, dark } from 'jetswap-uikit2'
 
 const CACHE_KEY = 'IS_DARK'
 

@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, CloseIcon } from 'jetswap-uikit-new'
+import { Heading, IconButton, CloseIcon } from 'jetswap-uikit2'
 import { AutoColumn, ColumnCenter } from '../Column'
 
 

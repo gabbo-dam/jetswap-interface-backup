@@ -1,6 +1,6 @@
 import { Token } from 'jetswap-sdk'
 import { transparentize } from 'polished'
-import { Button, Text } from 'jetswap-uikit-new'
+import { Button, Text } from 'jetswap-uikit2'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'
 import { AlertTriangle } from 'react-feather'

@@ -1,4 +1,4 @@
-import { Text } from 'jetswap-uikit-new'
+import { Text } from 'jetswap-uikit2'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

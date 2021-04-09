@@ -1,4 +1,4 @@
-import { MenuEntry } from 'jetswap-uikit-new'
+import { MenuEntry } from 'jetswap-uikit2'
 
 const config: MenuEntry[] = [
   {
