@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'https://jetswap2.netlify.app',
   },
   {
     label: 'Trade',
@@ -24,88 +24,57 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'https://jetswap2.netlify.app/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/syrup',
+    href: 'https://jetswap2.netlify.app/pools',
   },
-  {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
-  },
-  {
-    label: 'NFT',
-    icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
-  },
-  {
-    label: 'Teams & Profile',
-    icon: 'GroupsIcon',
-    calloutClass: 'rainbow',
-    items: [
-      {
-        label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
-      },
-      {
-        label: 'Task Center',
-        href: 'https://pancakeswap.finance/profile/tasks',
-      },
-      {
-        label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
-      },
-    ],
-  },
+  
+  
   {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
       {
         label: 'Overview',
-        href: 'https://pancakeswap.info',
+        href: 'https://jetswapinfo.netlify.app/home',
       },
       {
         label: 'Tokens',
-        href: 'https://pancakeswap.info/tokens',
+        href: 'https://jetswapinfo.netlify.app/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://pancakeswap.info/pairs',
+        href: 'https://jetswapinfo.netlify.app/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://pancakeswap.info/accounts',
+        href: 'https://jetswapinfo.netlify.app/accounts',
       },
     ],
   },
-  {
-    label: 'IFO',
-    icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
-  },
+  
   {
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
-        label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
-      },
+      // {
+      //   label: 'Voting',
+      //   href: '#',
+      // },
       {
         label: 'Github',
-        href: 'https://github.com/pancakeswap',
+        href: 'https://github.com/jetfuelfinance',
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://jetfuel-finance-1.gitbook.io/jetfuel-finance/in-development/jets-swap-amm',
       },
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://jetfuelfinance.medium.com/',
       },
     ],
   },

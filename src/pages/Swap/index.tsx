@@ -1,7 +1,7 @@
 import { CurrencyAmount, JSBI, Token, Trade } from 'jetswap-sdk'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
-import { CardBody, ArrowDownIcon, Button, IconButton, Text } from 'jetswap-uikit2'
+import { CardBody, ArrowDoubleIcon, Button, IconButton, Text } from 'jetswap-uikit2'
 import { ThemeContext } from 'styled-components'
 import AddressInputPanel from 'components/AddressInputPanel'
 import Card, { GreyCard } from 'components/Card'
@@ -317,7 +317,7 @@ const Swap = () => {
                       style={{ borderRadius: '50%' }}
                       scale="sm"
                     >
-                      <ArrowDownIcon color="primary" width="24px" />
+                      <ArrowDoubleIcon color="primary" width="24px" />
                     </IconButton>
                   </ArrowWrapper>
                   {recipient === null && !showWrap && isExpertMode ? (
