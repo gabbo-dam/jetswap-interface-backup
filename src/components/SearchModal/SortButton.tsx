@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'jetswap-uikit2'
+import { Text } from 'jetswap-uikit-new'
 import styled from 'styled-components'
 import { RowFixed } from '../Row'
 

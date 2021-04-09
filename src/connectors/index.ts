@@ -1,4 +1,4 @@
-import { ConnectorNames } from 'jetswap-uikit2'
+import { ConnectorNames } from 'jetswap-uikit-new'
 import { Web3Provider } from '@ethersproject/providers'
 import { InjectedConnector } from '@web3-react/injected-connector'
 import { WalletConnectConnector } from '@web3-react/walletconnect-connector'

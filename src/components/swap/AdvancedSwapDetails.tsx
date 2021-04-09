@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from 'jetswap-sdk'
-import { Card, CardBody, Text } from 'jetswap-uikit2'
+import { Card, CardBody, Text } from 'jetswap-uikit-new'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'

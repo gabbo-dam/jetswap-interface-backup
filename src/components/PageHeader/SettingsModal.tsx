@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from 'jetswap-uikit2'
+import { Modal } from 'jetswap-uikit-new'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 
